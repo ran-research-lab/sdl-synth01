@@ -1,0 +1,9 @@
+a.out
+bars
+bars.cbp
+CMakeCache.txt
+cmake_install.cmake
+peda-session-unknown.txt
+CMakeFiles/
+Makefile
+.idea/
